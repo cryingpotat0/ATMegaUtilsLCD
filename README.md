@@ -1,0 +1,1 @@
+Adding LCD functionality to some of Nick Gammon's ATMega Libraries which can be found at http://www.gammon.com.au/uploader. The eventual objective is to create an Arduino that can hotswap its current program from an SD card without being connected to a computer.
